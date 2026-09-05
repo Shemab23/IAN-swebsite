@@ -1,0 +1,7 @@
+{
+  "name": "IAN'S Travel & Tours",
+  "description": "Premium travel agency in Rwanda offering flight bookings, Rwanda & East Africa tours, hotel reservations, visa assistance, airport transfers, and customized journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
